@@ -40,3 +40,4 @@ function draw_pacman(ctx, x, y, r, m) {
     ctx.stroke();
     ctx.restore();
 }
+
